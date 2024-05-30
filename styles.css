@@ -1,0 +1,17 @@
+ody {
+background-image: url(https://64.media.tumblr.com/002337dcc2b8e59bbdbd74b5f0634240/tumblr_pgcsenvTpg1vpf6ddo1_400.gif);}
+
+h1{
+font-size: 25px;
+color:white;
+font-family: 'Caprasimo';
+text-align: center;}
+
+p{
+color: white; 
+}
+
+#image{
+max-width: 100%;
+display: block;
+height: auto;}
